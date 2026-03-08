@@ -1,2 +1,9 @@
-# dotnet
-A comprehensive .NET repository showcasing modern application development using C#, ASP.NET Core, RESTful APIs, and best practices such as dependency injection, clean architecture, and scalable design patterns.
+# Description
+Enterprise-grade .NET architecture examples including clean architecture, microservices, design patterns, and scalable backend solutions using ASP.NET Core.
+
+# Content
+Clean Architecture
+Repository pattern
+CQRS
+Domain Driven Design
+Middleware examples
