@@ -3,7 +3,12 @@ Enterprise-grade .NET architecture examples including clean architecture, micros
 
 # Content
 Clean Architecture
+
 Repository pattern
+
 CQRS
+
 Domain Driven Design
+
 Middleware examples
+
